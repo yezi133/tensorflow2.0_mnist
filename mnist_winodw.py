@@ -28,7 +28,7 @@ class MainWindow(QTabWidget):
 
         left_widget = QWidget()
         left_layout = QVBoxLayout()
-        img_title = QLabel("测试样本")
+        img_title = QLabel("测试DEMO")
         img_title.setFont(font)
         img_title.setAlignment(Qt.AlignCenter)
         self.img_label = QLabel()
