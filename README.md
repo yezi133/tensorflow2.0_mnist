@@ -37,15 +37,15 @@ python mnist_window.py
 
 
 ## 执行效果
-训练效果
+### 训练效果
 
 ![train](images/train.png)
 
-测试效果
+### 测试效果
 
 ![test](images/test.png)
 
-图形化界面
+### 图形化界面
 
 ![window](images/window.png)
 
